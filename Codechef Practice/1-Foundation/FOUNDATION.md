@@ -1,1 +1,0 @@
-# Codechef Foundation Practice
