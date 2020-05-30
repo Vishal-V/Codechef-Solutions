@@ -3,7 +3,7 @@ title:  "The Ultimate Guide to Google Summer of Code"
 subtitle: "Becoming a strong candidate!"
 author: "Vishal"
 avatar: "img/authors/vishal.jpg"
-image: "img/a.jpg"
+image: "img/gsoc.png"
 date:	2020-05-29 20:14:10
 ---
 
